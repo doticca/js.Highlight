@@ -1,0 +1,10 @@
+﻿Name: Highlight
+Path: js.Highlight
+AntiForgery: enabled
+Author: Team Grapto (tweet: @teamgrapto)
+Website: https://github.com/grapto/js.Highlight
+Version: 8.2
+OrchardVersion: 1.8.1
+Description: The js.Highlight module contains the Highlight.js and related script libraries.
+FeatureDescription: Syntax highlighting for the Web.
+Category: Developer
